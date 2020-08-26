@@ -10,7 +10,7 @@ Predicting Sales based on various advertisment factors.
 * How accurately can we predict future sales.
 * Is there synergy among the advertising media.
 
-![alt text](/Model%20Fit.png)
+![](https://github.com/vaibhav-dutta/Vaibhav_Portfoilo/blob/master/Model%20Fit.png)
 
 # [Project 2: Classification: Decision tree and Random Forest](https://github.com/vaibhav-dutta/Random-Forest-and-Decision-Tree)
 

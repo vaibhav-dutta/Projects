@@ -1,5 +1,3 @@
-# Personal Projects
-
 # [Project 1 : Multiple Linear Regression](https://github.com/vaibhav-dutta/Multiple-Linear-Regression)
 Predicting Sales based on various advertisment factors.
 * Is there a relationship between advertising budget and sales.

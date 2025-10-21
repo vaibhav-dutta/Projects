@@ -14,3 +14,7 @@ Predicting Sales based on various advertisment factors.
 For this project I explored publicly available data Lending Club. Lending Club connects people who need money (borrowers) with people who have money (investors). I created a model that will help classify non-payers and payers.
 
 ![](/Image.png)
+
+# [Project 3: E-commerce-Data-Analysis-using-Olist-Dataset](https://github.com/vaibhav-dutta/E-commerce-Data-Analysis-using-Olist-Dataset-)
+For this project i have taken the popular E-commerce dataset from kaggle (Olist Braziilian Ecommerce company) and used it by creating some important hypotetical questions which are useful for the top-mangment for knwoing the current situation of the comapany. As this is just about Explanatory Data Analysis. I have not included any predictaive modelling.
+![](/Correlation Matrix.png)
